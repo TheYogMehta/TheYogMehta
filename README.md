@@ -21,7 +21,6 @@
 
 ### :man_technologist: About Me : 
 I am a student who likes coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a high school slave.
 - :zap: In my free time, I watch anime 
 - :mailbox:How to reach me: bloodeygamer1@gmail.com
 
