@@ -23,7 +23,7 @@
 I am a student who likes coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :zap: In my free time, I watch anime 
 - :mailbox:How to reach me: bloodeygamer1@gmail.com
-
+<a href="https://discord.gg/dankamigos"><img src="https://img.shields.io/discord/960851745972555796?color=7289da&label=discord&logo=discord&logoColor=7289da" alt="Discord"></a>
 ---
 
 ### :hammer_and_wrench: Currently Learning / Completed Languages and Tools :
