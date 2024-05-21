@@ -20,21 +20,35 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ---
 
 ### :man_technologist: About Me : 
 I am a student who likes coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :zap: In my free time, I watch anime 
 - :mailbox:How to reach me: bloodeygamer1@gmail.com
+
 ---
 
-### :hammer_and_wrench: Currently Learning / Completed Languages and Tools :
+## Projects :
+
+### Dank Amigos Bot for discord.gg/dankamigos [3k Members]
+- Description: Created a Discord bot named Dank Amigos for the Dank Amigos Discord server, which has over 3,000 members. The bot is designed to perform various functions such as entertainment, utility, custom features like auto grinder management system & auto donation tracking system and much more.
+- Repository is private at this moment
+
+### Anime Downloader GUI
+- Description: Developed a fast and efficient Graphical User Interface (GUI) application for downloading anime. The GUI allows users to search for anime titles, select episodes, and download them with ease. The application is designed to provide a seamless experience for anime enthusiasts.
+- [Link to Repository](https://github.com/Incredibleflamer/Anime-batch-downloader-gui)
+---
+
+### :hammer_and_wrench: Completed Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
 </div>
 
 ---
