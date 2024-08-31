@@ -36,6 +36,11 @@ I am a student who likes coding <img src="https://media.giphy.com/media/WUlplcMp
 - Description: Created a Discord bot named Dank Amigos for the Dank Amigos Discord server, which has over 3,000 members. The bot is designed to perform various functions such as entertainment, utility, custom features like auto grinder management system & auto donation tracking system and much more.
 - Repository is private at this moment
 
+### Bald Karuta Hero#3781
+- description: A Discord Bot To Help You With Karuta Bot For **Free**
+- features : wishlist system , drop Analysis this feature does ocr on image and scan the database for its wishlist and sends it!  .. more features 😳
+- invite : Want It In Your Server? just drop join htttps://discord.gg/dankamigos and make a support ticket i can help you there!
+
 ### Anime Downloader GUI
 - Description: Developed a fast and efficient Graphical User Interface (GUI) application for downloading anime. The GUI allows users to search for anime titles, select episodes, and download them with ease. The application is designed to provide a seamless experience for anime enthusiasts.
 - [Link to Repository](https://github.com/Incredibleflamer/Anime-batch-downloader-gui)
