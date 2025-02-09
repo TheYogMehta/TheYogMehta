@@ -32,7 +32,7 @@ I am a student who likes coding <img src="https://media.giphy.com/media/WUlplcMp
 
 ## Projects :
 
-### Dank Amigos Bot for discord.gg/dankamigos [3k Members]
+### Dank Amigos Bot for discord.gg/dankamigos [5k Members]
 - Description: Created a Discord bot named Dank Amigos for the Dank Amigos Discord server, which has over 4,000 members. The bot is designed to perform various functions such as entertainment, utility, custom features like auto grinder management system & auto donation tracking system and much more.
 - Repository is private at this moment
 
