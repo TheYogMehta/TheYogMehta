@@ -24,8 +24,7 @@
 ---
 
 ### :man_technologist: About Me : 
-I am a student who likes coding <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :zap: In my free time, I watch anime 
+I am a student who likes Coding & Ethical Hacking <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :mailbox:How to reach me: mehtayog5@gmail.com
 
 ---
