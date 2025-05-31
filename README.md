@@ -42,7 +42,7 @@ I am a student who likes Coding & Ethical Hacking <img src="https://media.giphy.
 
 ### Anime Downloader GUI
 - Description: Developed a fast and efficient Graphical User Interface (GUI) application for downloading anime. The GUI allows users to search for anime titles, select episodes, and download them with ease. The application is designed to provide a seamless experience for anime enthusiasts.
-- [Link to Repository](https://github.com/Incredibleflamer/Anime-batch-downloader-gui)
+- [Link to Repository](https://github.com/TheYogMehta/Anime-batch-downloader-gui)
 ---
 
 ### :hammer_and_wrench: Completed Languages and Tools :
@@ -58,6 +58,6 @@ I am a student who likes Coding & Ethical Hacking <img src="https://media.giphy.
 ---
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Incredibleflamer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheYogMehta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
