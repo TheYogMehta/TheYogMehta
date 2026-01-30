@@ -32,7 +32,7 @@ I am a student who likes backend & systems <img src="https://media.giphy.com/med
 ## Projects :
 
 ### Dank Amigos Bot for discord.gg/dankamigos [5k Members]
-- Description: Created a Discord bot named Dank Amigos for the Dank Amigos Discord server, which has over 4,000 members. The bot is designed to perform various functions such as entertainment, utility, custom features like auto grinder management system & auto donation tracking system and much more.
+- Description: Created a Discord bot named Dank Amigos for the Dank Amigos Discord server, which has over 6,000 members. The bot is designed to perform various functions such as entertainment, utility, custom features like auto grinder management system & auto donation tracking system and much more.
 - Repository is private at this moment
 
 ### Bald Karuta Hero#3781
