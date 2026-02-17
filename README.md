@@ -56,8 +56,3 @@ I am a student who likes backend & systems <img src="https://media.giphy.com/med
 </div>
 
 ---
-
-### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheYogMehta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
