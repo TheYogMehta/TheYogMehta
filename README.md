@@ -2,8 +2,8 @@
 <a href="https://discord.gg/dankamigos"><img src="https://img.shields.io/discord/960851745972555796?color=7289da&label=discord&logo=discord&logoColor=7289da" alt="Discord"></a>
 </p>
 <p align="right">
-  <a href="https://www.buymeacoffee.com/Kowareta">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=Kowareta&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a coffee" width="150" />
+  <a href="https://www.buymeacoffee.com/theyogmehta">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=theyogmehta&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" alt="Buy me a coffee" width="150" />
   </a>
 </p>
 
